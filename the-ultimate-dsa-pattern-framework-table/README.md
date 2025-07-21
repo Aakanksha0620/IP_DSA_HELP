@@ -54,3 +54,7 @@
 * When you see a question, ask: "What is the **structure** of the input?" (sorted array, string, graph, tree, etc.)
 * Then ask: "What is the **goal**?" (max sum, all subsets, detect cycle, etc.)
 * Follow that branch on the mind map to get the matching pattern!
+
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>

@@ -17,7 +17,7 @@
 **Problem:** Given sorted array, find if a pair exists that sums to a target.
 
 ```java
-javaCopyEditpublic boolean hasPair(int[] nums, int target) {
+public boolean hasPair(int[] nums, int target) {
     int left = 0, right = nums.length - 1;
     while (left < right) {
         int sum = nums[left] + nums[right];
@@ -36,7 +36,7 @@ javaCopyEditpublic boolean hasPair(int[] nums, int target) {
 **Problem:** Maximize area between two heights.
 
 ```java
-javaCopyEditpublic int maxArea(int[] height) {
+public int maxArea(int[] height) {
     int max = 0, left = 0, right = height.length - 1;
     while (left < right) {
         int h = Math.min(height[left], height[right]);
@@ -53,7 +53,7 @@ javaCopyEditpublic int maxArea(int[] height) {
 **🔴 Hard Example: Trapping Rain Water**
 
 ```java
-javaCopyEditpublic int trap(int[] height) {
+public int trap(int[] height) {
     int left = 0, right = height.length - 1;
     int leftMax = 0, rightMax = 0, result = 0;
     
