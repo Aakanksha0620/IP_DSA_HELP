@@ -1,6 +1,12 @@
 # Table of contents
 
 * [Intro](README.md)
+* [The Ultimate DSA Pattern Framework Table](the-ultimate-dsa-pattern-framework-table/README.md)
+  * [Two Pointers](the-ultimate-dsa-pattern-framework-table/two-pointers.md)
+  * [Sliding Window](the-ultimate-dsa-pattern-framework-table/sliding-window.md)
+  * [Fast & Slow Pointers](the-ultimate-dsa-pattern-framework-table/fast-and-slow-pointers.md)
+  * [Merge Intervals](the-ultimate-dsa-pattern-framework-table/merge-intervals.md)
+  * [Cyclic Sort](the-ultimate-dsa-pattern-framework-table/cyclic-sort.md)
 * [Arrays](arrays.md)
 * [String](string.md)
 * [Hashing](hashing.md)
